@@ -26,3 +26,7 @@ white   = "#b5bfe2"
 [colors.cursor]
 text   = "#303446"
 cursor = "#b5bfe2"
+
+[colors.selection]
+text = "#303446"
+background = "#f4b8e4"
