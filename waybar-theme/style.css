@@ -41,6 +41,7 @@ window#waybar.empty #window {
   color: transparent;
   padding: 0;
   margin: 0;
+  box-shadow: none;
 }
 #waybar.empty .modules-center {
   opacity: 0;
