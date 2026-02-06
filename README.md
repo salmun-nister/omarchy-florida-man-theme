@@ -22,6 +22,8 @@ Grid preview of the `backgrounds` folder:
 | --- | --- | --- |
 | ![ambrosia-gta-6-2026-3840x2160-24212](backgrounds/ambrosia-gta-6-2026-3840x2160-24212.png) | ![grassrivers-gta-6-3840x2160-24213](backgrounds/grassrivers-gta-6-3840x2160-24213.png) | ![gta-6-port-gellhorn-3840x2160-24225](backgrounds/gta-6-port-gellhorn-3840x2160-24225.png) |
 | ![leonida-keys-gta-6-3840x2160-24214](backgrounds/leonida-keys-gta-6-3840x2160-24214.png) | ![mount-kalaga-3840x2160-24215](backgrounds/mount-kalaga-3840x2160-24215.png) | ![vice-city-grand-3840x2160-24218](backgrounds/vice-city-grand-3840x2160-24218.png) |
+| ![brian-herder-gta-6-3840x2160](backgrounds/brian-herder-gta-6-3840x2160.png) | ![cal-hampton-gta-6-3840x2160](backgrounds/cal-hampton-gta-6-3840x2160.png) | ![gta-6-ps-store-3840x2160](backgrounds/gta-6-ps-store-3840x2160.png) |
+| ![raul-bautista-gta-6-3840x2160](backgrounds/raul-bautista-gta-6-3840x2160.png) | ![real-dimez-gta-6-3840x2160](backgrounds/real-dimez-gta-6-3840x2160.png) | |
 
 ## Attribution
 
